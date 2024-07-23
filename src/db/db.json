@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": "49f536c1-d332-42ac-a0eb-3329cadff762",
+    "name": "Thomas Harvey",
+    "phone": "(799) 322-8606 x70907",
+    "email": "Moshe_Heidenreich-Mills35@yahoo.com",
+    "job": "Legacy Directives Agent"
+  },
+  {
+    "id": "25ff7988-9fcd-4bf8-afb9-5b3ade4f936b",
+    "name": "Alton Quitzon",
+    "phone": "281.397.0663 x094",
+    "email": "Shanie_Funk21@hotmail.com",
+    "job": "Forward Marketing Administrator"
+  },
+  {
+    "id": "2c0a0334-1de1-49dd-a0ab-d1103ef378dc",
+    "name": "Brent Reichert II",
+    "phone": "1-556-312-9114 x01344",
+    "email": "Brandon_Rosenbaum@hotmail.com",
+    "job": "Central Web Developer"
+  },
+  {
+    "id": "75ec7521-5a6b-40ba-84c8-57be491f82da",
+    "name": "Mrs. Sabrina McLaughlin",
+    "phone": "539-263-0358 x5096",
+    "email": "Daphne27@yahoo.com",
+    "job": "Regional Research Facilitator"
+  }
+]
